@@ -4,7 +4,7 @@ defmodule Boggle do
     Test your code by running 'mix test' from the tester_ex_simple directory.
   """
 
-  #sanna banana 501154179
+  #sanna banana
 
   def boggle(board, words) do
 
